@@ -1,4 +1,4 @@
-# 💳 Simulador de Cajero Bancario (Java)
+# 💳 Simulador de Cajero Automatico (Java)
 
 Este programa simula las funciones básicas de un cajero automático. Está desarrollado en Java y permite al usuario realizar operaciones como consultar el saldo, retirar o depositar dinero. Ideal para practicar estructuras de control y manejo de entradas en Java.
 
