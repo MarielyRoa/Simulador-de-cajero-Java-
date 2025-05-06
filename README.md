@@ -12,6 +12,7 @@ Este programa simula las funciones básicas de un cajero automático. Está desa
 ## 🧠 Conceptos utilizados
 
 - Estructuras condicionales (`if`, `else if`, `else`)
+- Estructuras de control (switch)
 - Estructura de repetición (`while`)
 - Métodos estáticos
 - Manejo de entrada de usuario con `Scanner`
